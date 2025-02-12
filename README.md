@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Jose Miguel López Fernández
+Soy un desarrollador de aplicaciones multiplataforma con experiencia en Android, Unity y desarrollo web. Me apasiona la creación de software y los videojuegos. 🚀
 
-<!--
-**josemifdeez/josemifdeez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📌 **Tecnologías principales:**  
+- 🖥️ Desarrollo de software: Python, Java, C#, C++, JavaScript  
+- 🌐 Desarrollo web y e-commerce: HTML, CSS, WordPress, WooCommerce  
+- 🎮 Videojuegos: Unity, C#  
+- 📱 Apps móviles: Android Studio  
+- 💾 Bases de datos: SQL  
 
-Here are some ideas to get you started:
+🔗 **Contacto:**  
+📧 josemifdeez@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/jmlopezfernandez)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### ✨ **Proyectos destacados** ✨
+🚀 [Tienda e-commerce con carrito y usuarios](https://github.com/jmlopez/tienda-ecommerce)  
+🎮 [Juego tipo Stardew Valley (TFG)](https://github.com/jmlopez/stardew-like-game)  
+🛠️ [ERP con WordPress y WooCommerce](https://github.com/jmlopez/erp-wordpress)
+
