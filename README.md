@@ -15,6 +15,6 @@ Soy un desarrollador de aplicaciones multiplataforma con experiencia en Android,
 ---
 ### ✨ **Proyectos destacados** ✨
 🚀 [Tienda e-commerce con carrito y usuarios](https://github.com/jmlopez/tienda-ecommerce)  
-🎮 [Juego tipo Stardew Valley (TFG)](https://github.com/jmlopez/stardew-like-game)  
+🎮 [Juego tipo Stardew Valley (TFG)](https://github.com/josemifdeez/stardew-like-game)  
 🛠️ [ERP con WordPress y WooCommerce](https://github.com/jmlopez/erp-wordpress)
 
