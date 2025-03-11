@@ -1,8 +1,7 @@
-![GitHub Readme Profile Banner](https://user-images.githubusercontent.com/60168324/137659662-30dd7b29-f742-4b24-87fe-12fb99a9d72c.giff)
+![Banner gif](https://github.com/user-attachments/assets/c13adf16-b103-472f-b634-86bc3796a0ac)
+
 
 ---
-
-<h2 align="center">👋 ¡Hola! Soy Jose Miguel López Fernández</h2>
 <h3 align="center">Desarrollador de Aplicaciones Multiplataforma</h3>
 
 <p align="center">
@@ -34,18 +33,6 @@ Disfruto diseñando soluciones intuitivas y eficientes para mejorar la experienc
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">🛒 Tienda e-commerce con carrito y usuarios</h3>
-<div align="center">
-<a href="https://github.com/jmlopez/tienda-ecommerce" target="_blank"><img src="https://via.placeholder.com/400" width="400" alt="E-commerce"/></a>
-<p>
-<a href="https://github.com/jmlopez/tienda-ecommerce" target="_blank">
-<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-
-</p>
-<p><strong>HTML, CSS, JavaScript, PHP</strong> - Tienda online con sistema de usuarios, carrito de compras e integración con pasarelas de pago.</p>
-</div>
-
 <h3 align="center">🎮 Juego tipo Stardew Valley (TFG)</h3>
 <div align="center">
 <a href="https://github.com/josemifdeez/stardew-like-game" target="_blank"><img src= "https://github.com/user-attachments/assets/1430437f-e37d-463f-bb8e-0d61b6ce6080" width="400" alt="Juego Stardew"/></a>
@@ -76,14 +63,9 @@ Disfruto diseñando soluciones intuitivas y eficientes para mejorar la experienc
 
 ---
 
-<h2 align="left">📫 Conéctate conmigo:</h2>
+<h2 align="left">📫 Contacto:</h2>
 <p align="left">
 <a href="mailto:josemifdeez@gmail.com" target="_blank"><img src="https://img.icons8.com/dotty/40/000000/email.png" alt="Email" /></a>
 <a href="https://linkedin.com/in/jmlopezfernandez" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
----
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=josemifdeez&show_icons=true&theme=graywhite">
-</p>
