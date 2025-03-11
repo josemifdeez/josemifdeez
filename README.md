@@ -41,13 +41,14 @@ Disfruto diseñando soluciones intuitivas y eficientes para mejorar la experienc
 <a href="https://github.com/jmlopez/tienda-ecommerce" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
+
 </p>
 <p><strong>HTML, CSS, JavaScript, PHP</strong> - Tienda online con sistema de usuarios, carrito de compras e integración con pasarelas de pago.</p>
 </div>
 
 <h3 align="center">🎮 Juego tipo Stardew Valley (TFG)</h3>
 <div align="center">
-<a href="https://github.com/josemifdeez/stardew-like-game" target="_blank"><img src="https://via.placeholder.com/400" width="400" alt="Juego Stardew"/></a>
+<a href="https://github.com/josemifdeez/stardew-like-game" target="_blank"><img src= "https://github.com/user-attachments/assets/1430437f-e37d-463f-bb8e-0d61b6ce6080" width="400" alt="Juego Stardew"/></a>
 <p>
 <a href="https://github.com/josemifdeez/stardew-like-game" target="_blank">
 <img src="https://img.shields.io/badge/CODE-28bdbd?style=for-the-badge&logo=github&logoColor=black">
