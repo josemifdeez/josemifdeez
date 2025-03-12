@@ -59,15 +59,15 @@ Disfruto diseñando soluciones intuitivas y eficientes para mejorar la experienc
 </td>
 
 <td width="50%">
-<h3 align="center">🔧 ERP con WordPress y WooCommerce</h3>
+<h3 align="center">🦈 Runner 3D</h3>
 <div align="center">
-<a href="https://github.com/jmlopez/erp-wordpress" target="_blank"><img src="https://via.placeholder.com/400" width="400" alt="ERP"/></a>
+<a href="https://github.com/jmlopez/runner3d" target="_blank"><img src= "https://github.com/user-attachments/assets/3fc2843b-32f9-4f5f-a87f-83769267a6f3" width="400" alt="ERP"/></a>
 <p>
-<a href="https://github.com/jmlopez/erp-wordpress" target="_blank">
+<a href="https://github.com/jmlopez/runner3d" target="_blank">
     <img src="https://img.shields.io/badge/CODE-2B2D42?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p><strong>WordPress, WooCommerce</strong> - Integración de ERP con WordPress y WooCommerce para gestión de inventario y pedidos.</p>
+<p><strong>C#, PHP, Unity</strong> - Juego estilo endless runner, con power-ups, un sistema de clasificación en línea y almacenamiento de puntuaciones.</p>
 </div>
 </td>
 </tr>
@@ -84,6 +84,7 @@ Disfruto diseñando soluciones intuitivas y eficientes para mejorar la experienc
     </a>
 </div>
 
+![Captura de pantalla 2025-03-12 010512](https://github.com/user-attachments/assets/3fc2843b-32f9-4f5f-a87f-83769267a6f3)
 
 </p>
 
