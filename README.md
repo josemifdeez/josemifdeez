@@ -61,13 +61,13 @@ Disfruto diseñando soluciones intuitivas y eficientes para mejorar la experienc
 <td width="50%">
 <h3 align="center">🦈 Runner 3D</h3>
 <div align="center">
-<a href="https://github.com/josemifdeez/runner3d" target="_blank"><img src= "https://github.com/user-attachments/assets/3fc2843b-32f9-4f5f-a87f-83769267a6f3" width="400" alt="ERP"/></a>
+<a href="https://github.com/josemifdeez/runner3d" target="_blank"><img src= "https://github.com/user-attachments/assets/be8075de-0110-4d95-a505-a5f41d984bcb" width="400" alt="ERP"/></a>
 <p>
 <a href="https://github.com/josemifdeez/runner3d" target="_blank">
     <img src="https://img.shields.io/badge/CODE-2B2D42?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p><strong>C#, PHP, Unity</strong> - Juego estilo endless runner, con power-ups, un sistema de clasificación en línea y almacenamiento de puntuaciones.</p>
+<p><strong>C#, PHP, Unity</strong> - Juego endless runner, con power-ups, leaderboard online y almacenamiento de puntuaciones.</p>
 </div>
 </td>
 </tr>
