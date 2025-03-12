@@ -63,7 +63,7 @@ Disfruto diseñando soluciones intuitivas y eficientes para mejorar la experienc
 <div align="center">
 <a href="https://github.com/josemifdeez/runner3d" target="_blank"><img src= "https://github.com/user-attachments/assets/3fc2843b-32f9-4f5f-a87f-83769267a6f3" width="400" alt="ERP"/></a>
 <p>
-<a href="https://github.com/jmlopez/runner3d" target="_blank">
+<a href="https://github.com/josemifdeez/runner3d" target="_blank">
     <img src="https://img.shields.io/badge/CODE-2B2D42?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
