@@ -84,7 +84,5 @@ Disfruto diseñando soluciones intuitivas y eficientes para mejorar la experienc
     </a>
 </div>
 
-![Captura de pantalla 2025-03-12 010512](https://github.com/user-attachments/assets/3fc2843b-32f9-4f5f-a87f-83769267a6f3)
-
 </p>
 
