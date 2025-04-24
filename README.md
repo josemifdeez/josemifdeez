@@ -79,7 +79,7 @@ Disfruto diseñando soluciones intuitivas y eficientes para mejorar la experienc
 <p align="left">
     <a href="mailto:josemifdeez@gmail.com" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/josemifdeez@gmail.com-2C2C2C?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Gmail" />
-    </a><a href="https://www.linkedin.com/in/jmlopezfernandez/" target="_blank" style="text-decoration: none;">
+    </a><a href="https://www.linkedin.com/in/josemifdeez/" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
 </div>
